@@ -1,0 +1,35 @@
+{
+  "extensionName": {
+    "message": "Largest Image Downloader for Flickr"
+  },
+  "extensionShortName": {
+    "message": "Flickr Largest"
+  },
+  "extensionDescription": {
+    "message": "Save any Flickr photo in the largest size available, up to the original, with one click, a shortcut or the right-click menu."
+  },
+  "actionTitle": {
+    "message": "Download largest image (Shift-click: choose where to save)"
+  },
+  "commandDescription": {
+    "message": "Download the largest version of the current Flickr photo"
+  },
+  "menuPage": {
+    "message": "Download largest version of this photo"
+  },
+  "menuLink": {
+    "message": "Download largest version of linked Flickr photo"
+  },
+  "notifyStarted": {
+    "message": "Download started"
+  },
+  "notifyFailed": {
+    "message": "Download failed"
+  },
+  "errNotPhoto": {
+    "message": "This isn't a Flickr photo page."
+  },
+  "errNoSizes": {
+    "message": "No image sizes found."
+  }
+}

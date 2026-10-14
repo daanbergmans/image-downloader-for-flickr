@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3b5bdb"/>
+      <stop offset="1" stop-color="#1c7ed6"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="120" height="120" rx="28" fill="url(#bg)"/>
+  <!-- photo -->
+  <rect x="22" y="26" width="72" height="58" rx="9" fill="#fff"/>
+  <path d="M30 76l17-21 12 14 8-9 19 16z" fill="#1c7ed6"/>
+  <circle cx="74" cy="42" r="7" fill="#fcc419"/>
+  <!-- expand corners -->
+  <path d="M14 40V20h20M114 88v20H94" stroke="#fff" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity=".85"/>
+  <!-- download badge -->
+  <circle cx="92" cy="92" r="24" fill="#fff"/>
+  <circle cx="92" cy="92" r="19" fill="#2b8a3e"/>
+  <path d="M92 80v22M83 94l9 9 9-9" stroke="#fff" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
