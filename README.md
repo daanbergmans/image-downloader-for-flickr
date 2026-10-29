@@ -74,12 +74,12 @@ To see what the add-on is doing, click **Inspect** next to it in `about:debuggin
 | `background.js` | Handles the button, shortcut and menu; picks the largest size and downloads it |
 | `collect.js` | Runs inside the Flickr tab and gathers the available sizes |
 | `lib.js` | Shared helpers for reading sizes and titles |
-| `_locales/` | English and Dutch translations |
+| `_locales/` | English translations |
 | `icons/` | Add-on and toolbar icons |
 
 ### Translations
 
-The interface is available in English and Dutch. Translations live in `_locales/`. To add a language, copy `_locales/en/messages.json` to a new folder named after the language code (for example `_locales/de/`), translate the `message` values and open a pull request.
+The interface is available in English. Translations live in `_locales/`. To add a language, copy `_locales/en/messages.json` to a new folder named after the language code (for example `_locales/de/`), translate the `message` values and open a pull request.
 
 ### Packaging
 
