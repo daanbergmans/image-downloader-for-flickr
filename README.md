@@ -22,7 +22,6 @@ Flickr hides its photo sizes behind a size menu, and the right-click "Save image
 - **Works anywhere on Flickr:** on photo pages, and on thumbnails and links in feeds, albums, groups and search results.
 - **Clear filenames:** `Title - photoID (6144x4096).jpg`.
 - **Tells you what you got:** a notification shows exactly which size was saved.
-- **English and Dutch:** the interface follows your browser's language.
 - **Private:** no data collection, no tracking.
 
 ## Install
